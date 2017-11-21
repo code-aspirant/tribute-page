@@ -1,0 +1,22 @@
+.jumbotron {
+	height: 500px;
+	background: url('/img/background.jpg') no-repeat center;
+	background-size: cover;
+	background-position: left calc(33% + 10px);
+	background-attachment: scroll;
+	font-weight: 300;
+  	text-shadow: 0 3px 3px rgba(0,0,0,.8);
+}
+
+.jumbotron > hr {
+	max-width: 25%;
+}
+
+.feature-heading {
+	font-size: 50px;
+}
+
+.feature-divider {
+	margin-top: 50px;
+	padding-bottom: 50px;
+}
